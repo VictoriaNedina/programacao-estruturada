@@ -12,3 +12,4 @@ ex02 - Distância entre pontos
 ex03 - Horas minutos e segundos
 ex04 - Validação
 ex05 - Números com resto 2
+aula01 - Declaração e Leitura de Matrizes
