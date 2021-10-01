@@ -7,9 +7,9 @@ Repositório criado com intuito de inserir os exercícios resolvidos na linguage
 </div>
 
 # Introdução à C
-ex01 - I/O Salário
-ex02 - Distância entre pontos
-ex03 - Horas minutos e segundos
-ex04 - Validação
-ex05 - Números com resto 2
-aula01 - Declaração e Leitura de Matrizes
+exercicio01 - I/O Salário
+exercicio02 - Distância entre pontos
+exercicio03 - Horas minutos e segundos
+exercicio04 - Validação
+exercicio05 - Números com resto 2
+
